@@ -1,3 +1,4 @@
+#! /bin/sh
 function wechaty() {
   docker run \
     -t -i --rm \
